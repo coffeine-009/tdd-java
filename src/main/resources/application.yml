@@ -3,7 +3,7 @@ server:
 
 spring:
   datasource:
-      url: jdbc:hsqldb:mem:virtuoso
+      url: jdbc:hsqldb:mem:tdd
       username: sa
       password:
       driver-class-name: org.hsqldb.jdbcDriver
